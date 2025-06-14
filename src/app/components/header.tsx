@@ -11,6 +11,9 @@ export default function Header() {
           <li>
             <Link href="/posts">Posts</Link>
           </li>
+          <li>
+            <Link href="/chakra">chakra</Link>
+          </li>
         </ul>
       </nav>
     </div>
